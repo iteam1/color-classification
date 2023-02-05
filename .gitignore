@@ -1,0 +1,6 @@
+env
+egs
+augs
+*.tar
+*.zip
+*.rar
